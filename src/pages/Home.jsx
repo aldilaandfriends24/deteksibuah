@@ -51,12 +51,12 @@ const sampleResult = [
 ]
 
 const testimonials = [
-  { name: 'Ipan', text: 'Bantu banget buat sortir buah di kios sebelum dijual, tinggal arahkan kamera saja.' },
+  { name: 'Ipan', text: 'Mantap bang' },
   { name: 'Repa', text: 'Analisisnya cepat dan gampang dipahami, cocok untuk yang awam sekalipun.' },
   { name: 'Mr. Johndoe', text: 'Impressive, real-time detection actually works smoothly on my browser.' },
   { name: 'Alok', text: 'Desainnya bersih, enak dilihat, dan hasil deteksinya cukup meyakinkan.' },
   { name: 'Lancelot', text: 'Fitur berhenti otomatis saat hasil stabil itu ide yang cerdas, hemat waktu.' },
-  { name: 'Peter Parker', text: 'Dipakai buat cek stok sayur harian, jadi lebih cepat ambil keputusan.' },
+  { name: 'Hayato', text: 'Bantu banget buat sortir buah di kios sebelum dijual, tinggal arahkan kamera saja.' },
 ]
 
 export default function Home() {
@@ -112,10 +112,11 @@ export default function Home() {
           <div className="demo-left">
             <h2 className="section-title section-title-center demo-title">Deteksi Dengan Mudah</h2>
             <p className="demo-hook">
-              Apa yang dideteksi? Kondisi buah dan sayuran. Siapa yang bisa pakai? Siapa saja,
-              tanpa keahlian khusus. Kapan dan di mana? Kapan pun, langsung dari browser mana
-              saja. Bagaimana caranya? Cukup arahkan kamera, sistem bekerja secara realtime
-              untuk membantumu mengenali kondisinya lebih awal.
+              Deteksi kesegaran buah dan sayuran secara realtime hanya dengan mengarahkan kamera. Sistem bekerja langsung di browser, 
+              sehingga tidak memerlukan instalasi aplikasi atau perangkat tambahan.
+              
+              Dirancang agar mudah digunakan siapa saja, kapan saja. Cukup buka browser, arahkan kamera, dan biarkan 
+              sistem membantu mengenali kondisi buah dan sayuran secara praktis dan cepat.
             </p>
             <div className="demo-sample-dark">
               <span className="demo-sample-tag">Contoh Hasil Analisis</span>
