@@ -67,12 +67,11 @@ deteksibuah/
    ```
    npm install
    ```
-3. Place the Teachable Machine model files (`model.json`, `metadata.json`, `weights.bin`) into `public/model/`.
-4. Start the development server:
+3. Start the development server:
    ```
    npm run dev
    ```
-5. Open http://localhost:5173 in your browser.
+4. Open http://localhost:5173 in your browser.
 
 ## How It Works
 
