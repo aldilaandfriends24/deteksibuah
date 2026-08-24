@@ -4,7 +4,7 @@ const team = [
   { name: 'Aldila Alif A.', no: '01', role: 'Data Researcher', instagram: 'aldiief', github: null },
   { name: 'Andry Muh I.D.R.', no: '05', role: 'Full-Stack + DevOps', instagram: 'andry_2511', github: 'andry968' },
   { name: 'Gendhis Ghaniyah', no: '09', role: 'Operations Support', instagram: 'geghaniy.a', github: null },
-  { name: 'Fajar Indah Q.', no: '10', role: 'Operations Support', instagram: null, github: null },
+  { name: 'Fajar Indah Q.', no: '10', role: 'Operations Support', instagram: 'fjar_iindh', github: null },
   { name: 'M. Fahri Firnando', no: '17', role: 'Full-Stack Dev', instagram: 'mfahrifirnando', github: 'mfahrifirnando' },
   { name: 'Novansa Rofiq A', no: '22', role: 'Koordinator', instagram: '12ofiqsz', github: null },
 ]
