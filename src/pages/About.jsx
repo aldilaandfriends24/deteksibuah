@@ -6,7 +6,7 @@ const team = [
   { name: 'Gendhis Ghaniyah', no: '09', role: 'Operations Support', instagram: 'geghaniy.a', github: null },
   { name: 'Fajar Indah Q.', no: '10', role: 'Operations Support', instagram: 'fjar_iindh', github: null },
   { name: 'M. Fahri Firnando', no: '17', role: 'Full-Stack Dev + IoT Engineer', instagram: 'mfahrifirnando', github: 'mfahrifirnando' },
-  { name: 'Novansa Rofiq A', no: '22', role: 'Koordinator', instagram: '12ofiqsz', github: '12ofiqsz' },
+  { name: 'Novansa Rofiq A', no: '22', role: 'Koordinator', instagram: '12ofiqsz', github: '12opek' },
 ]
 
 function LinkButton({ href, icon: Icon, label }) {
